@@ -1,0 +1,24 @@
+h1{
+	color: white;
+	background-color: black;
+	text-align: center;
+	padding: 10px;
+	margin: 50px;
+	font-family: 'Manrope', sans-serif;
+}
+hr{
+	border: 2 px solid black;
+	border-radius: 5px;
+}
+.circle{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	color: red;
+	background-color: blue;
+}
+img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
